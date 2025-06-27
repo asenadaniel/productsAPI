@@ -10,7 +10,7 @@ A simple Express.js API for managing a product catalogue.
 ## Installation
 
 ```bash
-git clone asenadaniel/productsAPI
+git clone https://github.com/asenadaniel/productsAPI.git
 cd productcatalogue
 npm install
 ```
